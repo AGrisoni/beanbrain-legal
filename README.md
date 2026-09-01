@@ -7,14 +7,16 @@ Published with GitHub Pages from the `main` branch, root directory:
 - Index: <https://agrisoni.github.io/beanbrain-legal/>
 - Terms of Use: <https://agrisoni.github.io/beanbrain-legal/terms-of-use.html>
 - Privacy Policy: <https://agrisoni.github.io/beanbrain-legal/privacy-policy.html>
+- Support: <https://agrisoni.github.io/beanbrain-legal/support.html>
 
 ## Contents
 
 | File | Purpose |
 |------|---------|
-| `index.html` | Landing page linking to both documents |
+| `index.html` | Landing page linking to the documents and support |
 | `terms-of-use.html` | Full Terms of Use |
 | `privacy-policy.html` | Full Privacy Policy |
+| `support.html` | Support page (contact email plus a short FAQ) |
 | `style.css` | Shared styling (system fonts, light/dark, responsive) |
 
 ## Principles
